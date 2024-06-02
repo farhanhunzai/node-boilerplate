@@ -1,3 +1,5 @@
+/* global process */
+'use strict';
 const loginValidator = require("../validator/login.validator");
 const registerValidator = require('../validator/register.validator');
 const { User } = require('../database/models'); 

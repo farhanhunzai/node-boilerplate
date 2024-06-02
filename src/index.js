@@ -1,4 +1,5 @@
-
+/* global process */
+'use strict';
 const express = require("express");
 const authRoute = require("./routes/auth");
 const usersRoute = require("./routes/users");

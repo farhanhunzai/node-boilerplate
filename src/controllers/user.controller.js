@@ -10,7 +10,7 @@ class UserController {
             
             // Send the list of users as the response
             res.json(users);
-        } catch (err) {
+        } catch {
             // Handle any errors that occur during the database query
             res.status(500).json({ error: 'An error occurred while fetching users.' });
         }
