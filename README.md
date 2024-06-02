@@ -52,10 +52,6 @@ npm run lint:fix
 - [sequelize-cli](https://www.npmjs.com/package/sequelize-cli): ^6.6.2
 - [socket.io](https://www.npmjs.com/package/socket.io): ^4.7.5
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 
 - [Farhan Khan](https://github.com/farhanhunzai)
